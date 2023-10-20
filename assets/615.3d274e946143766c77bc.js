@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstandalone_javascript=self.webpackChunkstandalone_javascript||[]).push([[615],{615:(n,a,t)=>{async function e(n){(await t.e(271).then(t.bind(t,271))).default,n.innerHTML="\n        <div>\n            <div id='auths'></div>\n        </div>\n    ";const{default:a}=await t.e(227).then(t.bind(t,227));a()}t.r(a),t.d(a,{default:()=>e})}}]);

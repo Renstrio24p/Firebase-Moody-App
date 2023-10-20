@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstandalone_javascript=self.webpackChunkstandalone_javascript||[]).push([[227],{227:(e,t,a)=>{async function n(){const{default:e}=await a.e(19).then(a.bind(a,19)),{default:t}=await a.e(753).then(a.bind(a,753)),n=document.getElementById("auths");window.addEventListener("DOMContentLoaded",(()=>{})),t(n)}a.d(t,{default:()=>n})}}]);
