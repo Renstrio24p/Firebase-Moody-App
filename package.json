@@ -1,0 +1,32 @@
+{
+  "name": "standalone-javascript",
+  "version": "1.0.2",
+  "description": "Pure Vanilla JS",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development --config webpack.config.js",
+    "build": "webpack --mode production --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.8.1",
+    "dotenv-webpack": "^8.0.1",
+    "esbuild-loader": "^4.0.2",
+    "firebase": "^10.5.0",
+    "html-webpack-plugin": "^5.5.3",
+    "sass": "^1.63.6",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
+    "terser-webpack-plugin": "^5.3.9",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.0"
+  },
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
